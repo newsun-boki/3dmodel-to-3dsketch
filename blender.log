@@ -1,875 +1,945 @@
 
-Successfully imported './small_chair.ply' in 5.804 sec
+Successfully imported './small_chair.ply' in 3.250 sec
 number:0
 output exr:Image
 METAL API - DETECTED GPU: Apple M2
-Fra:0 Mem:93.08M (Peak 93.91M) | Time:00:00.14 | Syncing Light
-Fra:0 Mem:93.08M (Peak 93.91M) | Time:00:00.14 | Syncing Camera
-Fra:0 Mem:93.08M (Peak 93.91M) | Time:00:00.14 | Syncing small_chair
-Fra:0 Mem:135.22M (Peak 137.11M) | Time:00:00.20 | Rendering 1 / 64 samples
-Fra:0 Mem:101.01M (Peak 137.11M) | Time:00:00.46 | Rendering 26 / 64 samples
-Fra:0 Mem:101.01M (Peak 137.11M) | Time:00:00.65 | Rendering 51 / 64 samples
-Fra:0 Mem:101.01M (Peak 137.11M) | Time:00:00.76 | Rendering 64 / 64 samples
-Fra:0 Mem:100.21M (Peak 137.63M) | Time:00:00.82 | Compositing
-Fra:0 Mem:100.21M (Peak 137.63M) | Time:00:00.82 | Compositing | Determining resolution
-Fra:0 Mem:100.21M (Peak 137.63M) | Time:00:00.82 | Compositing | Initializing execution
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 1-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 4-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 4-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 2-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 5-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 6-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 7-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 8-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 9-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 10-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 11-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 12-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 13-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 14-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 15-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 16-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 17-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 18-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 19-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 20-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 21-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 22-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 23-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 24-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 25-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 26-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 27-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 28-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 29-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 30-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 31-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 32-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 33-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 34-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 35-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 1-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 2-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 4-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.83 | Compositing | Tile 4-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 5-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 6-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 7-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 8-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 9-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 10-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 11-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 12-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 13-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 14-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 15-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 16-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 17-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 18-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 19-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 20-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 21-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 22-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 23-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 24-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 25-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 26-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 27-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 28-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 29-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 30-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 31-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 32-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 33-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 34-35
-Fra:0 Mem:144.23M (Peak 144.23M) | Time:00:00.84 | Compositing | Tile 35-35
-Fra:0 Mem:144.17M (Peak 144.23M) | Time:00:00.84 | Compositing | De-initializing execution
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Camera
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_0
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_1
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_2
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_3
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_4
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_5
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_6
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing Light_7
+Fra:0 Mem:93.36M (Peak 94.19M) | Time:00:00.11 | Syncing small_chair
+Fra:0 Mem:135.50M (Peak 137.39M) | Time:00:00.14 | Rendering 1 / 64 samples
+Fra:0 Mem:101.28M (Peak 137.39M) | Time:00:00.45 | Rendering 26 / 64 samples
+Fra:0 Mem:101.28M (Peak 137.39M) | Time:00:00.69 | Rendering 51 / 64 samples
+Fra:0 Mem:101.28M (Peak 137.39M) | Time:00:00.82 | Rendering 64 / 64 samples
+Fra:0 Mem:100.49M (Peak 137.90M) | Time:00:00.86 | Compositing
+Fra:0 Mem:100.49M (Peak 137.90M) | Time:00:00.86 | Compositing | Determining resolution
+Fra:0 Mem:100.49M (Peak 137.90M) | Time:00:00.86 | Compositing | Initializing execution
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 2-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 3-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 1-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 5-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 6-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 7-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 8-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 9-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 4-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 10-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 12-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 13-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 14-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 15-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 16-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 17-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 11-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 18-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 19-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 20-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 21-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 22-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 23-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 24-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 25-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 26-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 27-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 28-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 29-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 30-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 31-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 32-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 33-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.86 | Compositing | Tile 34-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 35-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 1-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 3-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 2-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 4-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 5-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 6-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 7-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 8-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 9-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 10-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 11-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 12-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 13-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 14-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 15-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 16-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 17-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 18-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 19-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 20-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 21-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 22-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 23-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 24-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 25-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 26-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 27-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 28-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 29-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 30-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 31-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 32-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 33-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 34-35
+Fra:0 Mem:144.51M (Peak 144.51M) | Time:00:00.87 | Compositing | Tile 35-35
+Fra:0 Mem:144.45M (Peak 144.51M) | Time:00:00.87 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/0.exr
 Saved: 'output/exr/small_chair/0.png'
- Time: 00:01.67 (Saving: 00:00.79)
+ Time: 00:01.31 (Saving: 00:00.41)
 
 number:1
 output exr:output/exr/small_chair/#.exr
-Fra:1 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Light
-Fra:1 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Camera
-Fra:1 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing small_chair
-Fra:1 Mem:135.32M (Peak 137.22M) | Time:00:00.02 | Rendering 1 / 64 samples
-Fra:1 Mem:101.01M (Peak 137.22M) | Time:00:00.21 | Rendering 26 / 64 samples
-Fra:1 Mem:101.01M (Peak 137.22M) | Time:00:00.35 | Rendering 51 / 64 samples
-Fra:1 Mem:101.01M (Peak 137.22M) | Time:00:00.43 | Rendering 64 / 64 samples
-Fra:1 Mem:100.21M (Peak 137.63M) | Time:00:00.45 | Compositing
-Fra:1 Mem:100.22M (Peak 137.63M) | Time:00:00.45 | Compositing | Determining resolution
-Fra:1 Mem:100.22M (Peak 137.63M) | Time:00:00.45 | Compositing | Initializing execution
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 3-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 2-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 2-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 4-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 5-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 6-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 7-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.45 | Compositing | Tile 8-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 9-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 10-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 11-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 12-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 13-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 14-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 15-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 16-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 17-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 18-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 19-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 21-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 20-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 22-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 23-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 24-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 25-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 26-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 27-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 28-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 29-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 30-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 31-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 32-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 33-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 34-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 35-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 3-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 1-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 2-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 4-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 5-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 6-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 7-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 8-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 9-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 10-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 11-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 12-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 13-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 14-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 15-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 16-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 17-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 18-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 19-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 20-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 21-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 22-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 23-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 24-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 25-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 26-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 27-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 28-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 29-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.46 | Compositing | Tile 30-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.47 | Compositing | Tile 31-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.47 | Compositing | Tile 32-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.47 | Compositing | Tile 33-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.47 | Compositing | Tile 34-35
-Fra:1 Mem:144.23M (Peak 144.23M) | Time:00:00.47 | Compositing | Tile 35-35
-Fra:1 Mem:144.17M (Peak 144.23M) | Time:00:00.47 | Compositing | De-initializing execution
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Camera
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_0
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_1
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_2
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_3
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_4
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_5
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_6
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_7
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing small_chair
+Fra:1 Mem:135.59M (Peak 137.49M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:1 Mem:101.28M (Peak 137.49M) | Time:00:00.28 | Rendering 26 / 64 samples
+Fra:1 Mem:101.28M (Peak 137.49M) | Time:00:00.51 | Rendering 51 / 64 samples
+Fra:1 Mem:101.28M (Peak 137.49M) | Time:00:00.63 | Rendering 64 / 64 samples
+Fra:1 Mem:100.49M (Peak 137.90M) | Time:00:00.65 | Compositing
+Fra:1 Mem:100.49M (Peak 137.90M) | Time:00:00.65 | Compositing | Determining resolution
+Fra:1 Mem:100.49M (Peak 137.90M) | Time:00:00.65 | Compositing | Initializing execution
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 1-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 5-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 6-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 4-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 7-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 2-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 3-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 8-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 9-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 10-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 11-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 12-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 13-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 14-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 15-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 16-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 17-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 18-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 19-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 20-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 21-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 22-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 23-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 24-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 25-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 26-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 27-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 28-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 29-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 30-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 31-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 32-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 33-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 34-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.65 | Compositing | Tile 35-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 1-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 2-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 4-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 3-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 5-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 6-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 7-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 8-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 9-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 10-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 11-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 12-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 13-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 14-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 15-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 16-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 17-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 18-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 19-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 20-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 21-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 22-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 23-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 24-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 25-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 26-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 27-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 28-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 29-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 30-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 31-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 32-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 33-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 34-35
+Fra:1 Mem:144.51M (Peak 144.51M) | Time:00:00.66 | Compositing | Tile 35-35
+Fra:1 Mem:144.45M (Peak 144.51M) | Time:00:00.66 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/1.exr
 Saved: 'output/exr/small_chair/1.png'
- Time: 00:01.02 (Saving: 00:00.52)
+ Time: 00:00.97 (Saving: 00:00.29)
 
 number:2
 output exr:output/exr/small_chair/#.exr
-Fra:2 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Light
-Fra:2 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Camera
-Fra:2 Mem:100.86M (Peak 100.86M) | Time:00:00.01 | Syncing small_chair
-Fra:2 Mem:135.32M (Peak 137.22M) | Time:00:00.02 | Rendering 1 / 64 samples
-Fra:2 Mem:101.01M (Peak 137.22M) | Time:00:00.20 | Rendering 26 / 64 samples
-Fra:2 Mem:101.07M (Peak 137.22M) | Time:00:00.36 | Rendering 51 / 64 samples
-Fra:2 Mem:101.01M (Peak 137.22M) | Time:00:00.44 | Rendering 64 / 64 samples
-Fra:2 Mem:100.28M (Peak 137.69M) | Time:00:00.45 | Compositing
-Fra:2 Mem:100.28M (Peak 137.69M) | Time:00:00.45 | Compositing | Determining resolution
-Fra:2 Mem:100.28M (Peak 137.69M) | Time:00:00.45 | Compositing | Initializing execution
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 3-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 2-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 4-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 2-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 5-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 6-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 7-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 8-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 9-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 10-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 11-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 12-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 13-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 14-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 15-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 16-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 17-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 18-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 19-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 20-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 21-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 22-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 23-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 24-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 25-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 26-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 27-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 28-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 29-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 30-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 31-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 32-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 33-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 34-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 35-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 2-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 3-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 4-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.46 | Compositing | Tile 1-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 5-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 6-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 7-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 8-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 9-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 10-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 11-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 12-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 13-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 14-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 15-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 16-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 17-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 18-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 19-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 20-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 21-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 22-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 23-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 24-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 25-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 26-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 27-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 28-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 29-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 30-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 31-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 32-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 33-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 34-35
-Fra:2 Mem:144.30M (Peak 144.30M) | Time:00:00.47 | Compositing | Tile 35-35
-Fra:2 Mem:144.24M (Peak 144.30M) | Time:00:00.47 | Compositing | De-initializing execution
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Camera
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_0
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_1
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_2
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_3
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_4
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_5
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_6
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_7
+Fra:2 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing small_chair
+Fra:2 Mem:135.59M (Peak 137.49M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:2 Mem:101.28M (Peak 137.49M) | Time:00:00.27 | Rendering 26 / 64 samples
+Fra:2 Mem:101.28M (Peak 137.49M) | Time:00:00.50 | Rendering 51 / 64 samples
+Fra:2 Mem:101.35M (Peak 137.49M) | Time:00:00.61 | Rendering 64 / 64 samples
+Fra:2 Mem:100.49M (Peak 137.91M) | Time:00:00.63 | Compositing
+Fra:2 Mem:100.49M (Peak 137.91M) | Time:00:00.63 | Compositing | Determining resolution
+Fra:2 Mem:100.49M (Peak 137.91M) | Time:00:00.63 | Compositing | Initializing execution
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 2-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 4-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 3-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 2-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 5-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 6-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 7-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 8-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 9-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 10-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 11-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 12-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 13-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 14-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 15-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 16-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 17-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 18-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 19-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 20-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 21-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 22-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 23-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 24-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 25-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 26-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 27-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 28-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 29-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 30-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 31-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 32-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 33-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 34-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 35-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 2-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 3-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 2-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 5-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 6-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 7-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 8-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 9-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 4-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 10-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 11-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 12-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 13-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 14-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 15-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 16-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 17-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 18-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 19-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 20-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 21-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 22-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 23-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 24-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 25-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 26-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 27-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 28-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 29-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 30-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 31-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 32-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 33-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 34-35
+Fra:2 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 35-35
+Fra:2 Mem:144.45M (Peak 144.51M) | Time:00:00.64 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/2.exr
 Saved: 'output/exr/small_chair/2.png'
- Time: 00:01.06 (Saving: 00:00.55)
+ Time: 00:00.95 (Saving: 00:00.28)
 
 number:3
 output exr:output/exr/small_chair/#.exr
-Fra:3 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing Light
-Fra:3 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing Camera
-Fra:3 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing small_chair
-Fra:3 Mem:135.38M (Peak 137.28M) | Time:00:00.01 | Rendering 1 / 64 samples
-Fra:3 Mem:101.01M (Peak 137.28M) | Time:00:00.22 | Rendering 26 / 64 samples
-Fra:3 Mem:101.01M (Peak 137.28M) | Time:00:00.39 | Rendering 51 / 64 samples
-Fra:3 Mem:101.01M (Peak 137.28M) | Time:00:00.49 | Rendering 64 / 64 samples
-Fra:3 Mem:100.22M (Peak 137.63M) | Time:00:00.50 | Compositing
-Fra:3 Mem:100.22M (Peak 137.63M) | Time:00:00.50 | Compositing | Determining resolution
-Fra:3 Mem:100.22M (Peak 137.63M) | Time:00:00.50 | Compositing | Initializing execution
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 2-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 3-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 1-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 4-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 7-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 6-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 5-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 8-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 9-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 10-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 11-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 12-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 13-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 14-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 15-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 16-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 17-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 18-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 19-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 20-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 21-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 22-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 23-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 24-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 25-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 26-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 27-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 28-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 29-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 30-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 31-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 32-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 33-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 34-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 35-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 1-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 3-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 4-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 2-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 5-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 6-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 7-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 8-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 9-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 10-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 11-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 13-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 14-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 15-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 16-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 17-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 18-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 19-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 12-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 20-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 21-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 22-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 23-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 24-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 25-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 26-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 27-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 28-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 29-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 30-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 31-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 32-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 33-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 34-35
-Fra:3 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 35-35
-Fra:3 Mem:144.17M (Peak 144.24M) | Time:00:00.52 | Compositing | De-initializing execution
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Camera
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_0
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_1
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_2
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_3
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_4
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_5
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_6
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_7
+Fra:3 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing small_chair
+Fra:3 Mem:135.59M (Peak 137.49M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:3 Mem:101.28M (Peak 137.49M) | Time:00:00.28 | Rendering 26 / 64 samples
+Fra:3 Mem:101.28M (Peak 137.49M) | Time:00:00.53 | Rendering 51 / 64 samples
+Fra:3 Mem:101.28M (Peak 137.49M) | Time:00:00.66 | Rendering 64 / 64 samples
+Fra:3 Mem:100.49M (Peak 137.91M) | Time:00:00.67 | Compositing
+Fra:3 Mem:100.49M (Peak 137.91M) | Time:00:00.67 | Compositing | Determining resolution
+Fra:3 Mem:100.49M (Peak 137.91M) | Time:00:00.67 | Compositing | Initializing execution
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 1-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 3-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 5-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 6-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 7-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 8-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 9-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 10-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 11-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 12-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 13-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 14-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 15-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 16-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 17-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 18-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 19-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 20-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 21-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 22-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 23-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 24-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 25-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 26-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 27-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 28-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 29-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 30-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 31-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 32-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 33-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 34-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 35-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 1-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 2-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 3-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 4-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 5-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 6-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 7-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 8-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 9-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 10-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 11-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 12-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 13-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 14-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 15-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 16-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 17-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 18-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 20-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 21-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 22-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 23-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 24-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 25-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 26-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 19-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 27-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 28-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 30-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 29-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 31-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 32-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 33-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 34-35
+Fra:3 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 35-35
+Fra:3 Mem:144.45M (Peak 144.51M) | Time:00:00.68 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/3.exr
 Saved: 'output/exr/small_chair/3.png'
- Time: 00:01.11 (Saving: 00:00.55)
+ Time: 00:00.99 (Saving: 00:00.28)
 
 number:4
 output exr:output/exr/small_chair/#.exr
-Fra:4 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Light
-Fra:4 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Camera
-Fra:4 Mem:100.86M (Peak 100.86M) | Time:00:00.01 | Syncing small_chair
-Fra:4 Mem:135.32M (Peak 137.22M) | Time:00:00.02 | Rendering 1 / 64 samples
-Fra:4 Mem:101.01M (Peak 137.22M) | Time:00:00.21 | Rendering 26 / 64 samples
-Fra:4 Mem:101.01M (Peak 137.22M) | Time:00:00.38 | Rendering 51 / 64 samples
-Fra:4 Mem:101.01M (Peak 137.22M) | Time:00:00.47 | Rendering 64 / 64 samples
-Fra:4 Mem:100.22M (Peak 137.63M) | Time:00:00.49 | Compositing
-Fra:4 Mem:100.22M (Peak 137.63M) | Time:00:00.49 | Compositing | Determining resolution
-Fra:4 Mem:100.22M (Peak 137.63M) | Time:00:00.49 | Compositing | Initializing execution
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 3-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 1-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 4-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 2-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 5-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 6-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 7-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 8-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 9-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 10-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 11-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 12-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 13-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 14-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 15-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 16-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 17-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 18-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 19-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 20-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 21-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 22-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 23-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 24-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 25-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 26-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 27-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 28-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 29-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 30-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 31-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 32-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 33-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 34-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.50 | Compositing | Tile 35-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 2-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 4-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 3-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 5-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 6-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 1-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 7-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 8-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 9-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 10-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 11-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 12-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 13-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 14-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 15-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 16-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 17-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 18-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 19-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 20-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 21-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 22-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 23-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 24-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 25-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 26-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 27-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 28-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 29-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 30-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 31-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 32-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 33-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 34-35
-Fra:4 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 35-35
-Fra:4 Mem:144.17M (Peak 144.24M) | Time:00:00.51 | Compositing | De-initializing execution
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Camera
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_0
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_1
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_2
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_3
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_4
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_5
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_6
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_7
+Fra:4 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing small_chair
+Fra:4 Mem:135.59M (Peak 137.49M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:4 Mem:101.28M (Peak 137.49M) | Time:00:00.27 | Rendering 26 / 64 samples
+Fra:4 Mem:101.28M (Peak 137.49M) | Time:00:00.52 | Rendering 51 / 64 samples
+Fra:4 Mem:101.28M (Peak 137.49M) | Time:00:00.65 | Rendering 64 / 64 samples
+Fra:4 Mem:100.49M (Peak 137.91M) | Time:00:00.66 | Compositing
+Fra:4 Mem:100.49M (Peak 137.91M) | Time:00:00.66 | Compositing | Determining resolution
+Fra:4 Mem:100.49M (Peak 137.91M) | Time:00:00.66 | Compositing | Initializing execution
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 5-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 6-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 7-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 8-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 9-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 10-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 11-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 12-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 13-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 14-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 15-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 16-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 17-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 18-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 19-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 20-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 22-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 21-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 23-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 24-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 25-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 26-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 27-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 28-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 29-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 30-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 31-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 32-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 33-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 34-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 35-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 3-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 1-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 5-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 6-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 7-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 8-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 9-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 10-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 11-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 12-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 13-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 15-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 14-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 16-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 17-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 18-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 19-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 20-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 21-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 22-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 23-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 24-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 25-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 26-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 27-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 28-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 29-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 30-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 31-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 32-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 33-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 34-35
+Fra:4 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 35-35
+Fra:4 Mem:144.45M (Peak 144.51M) | Time:00:00.67 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/4.exr
 Saved: 'output/exr/small_chair/4.png'
- Time: 00:01.12 (Saving: 00:00.57)
+ Time: 00:00.99 (Saving: 00:00.29)
 
 number:5
 output exr:output/exr/small_chair/#.exr
-Fra:5 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Light
-Fra:5 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Camera
-Fra:5 Mem:100.86M (Peak 100.86M) | Time:00:00.01 | Syncing small_chair
-Fra:5 Mem:135.32M (Peak 137.22M) | Time:00:00.02 | Rendering 1 / 64 samples
-Fra:5 Mem:101.01M (Peak 137.22M) | Time:00:00.21 | Rendering 26 / 64 samples
-Fra:5 Mem:101.07M (Peak 137.22M) | Time:00:00.37 | Rendering 51 / 64 samples
-Fra:5 Mem:101.01M (Peak 137.22M) | Time:00:00.46 | Rendering 64 / 64 samples
-Fra:5 Mem:100.28M (Peak 137.69M) | Time:00:00.47 | Compositing
-Fra:5 Mem:100.28M (Peak 137.69M) | Time:00:00.47 | Compositing | Determining resolution
-Fra:5 Mem:100.28M (Peak 137.69M) | Time:00:00.47 | Compositing | Initializing execution
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 3-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 1-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 2-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 4-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 5-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 6-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 7-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 8-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 9-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 10-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 11-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 12-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 13-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 14-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 15-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 16-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 17-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 18-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 19-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 20-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 21-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 22-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 23-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 24-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 25-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 26-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 27-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 28-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 29-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 30-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 31-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 32-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 33-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 34-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 35-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 2-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 2-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 3-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 4-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 5-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.48 | Compositing | Tile 6-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 7-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 8-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 9-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 10-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 11-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 12-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 13-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 14-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 15-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 16-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 17-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 18-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 19-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 20-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 21-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 22-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 23-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 24-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 25-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 26-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 27-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 28-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 29-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 30-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 31-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 32-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 33-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 34-35
-Fra:5 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 35-35
-Fra:5 Mem:144.24M (Peak 144.30M) | Time:00:00.49 | Compositing | De-initializing execution
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Camera
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_0
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_1
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_2
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_3
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_4
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_5
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_6
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_7
+Fra:5 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing small_chair
+Fra:5 Mem:135.59M (Peak 137.49M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:5 Mem:101.28M (Peak 137.49M) | Time:00:00.28 | Rendering 26 / 64 samples
+Fra:5 Mem:101.28M (Peak 137.49M) | Time:00:00.52 | Rendering 51 / 64 samples
+Fra:5 Mem:101.35M (Peak 137.49M) | Time:00:00.65 | Rendering 64 / 64 samples
+Fra:5 Mem:100.49M (Peak 137.91M) | Time:00:00.67 | Compositing
+Fra:5 Mem:100.49M (Peak 137.91M) | Time:00:00.67 | Compositing | Determining resolution
+Fra:5 Mem:100.49M (Peak 137.91M) | Time:00:00.67 | Compositing | Initializing execution
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 3-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 5-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 7-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 6-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 8-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 9-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 10-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 11-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 12-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 13-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 14-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 15-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 16-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 17-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 18-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 19-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 20-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 21-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 22-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 23-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 24-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 25-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 26-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 27-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 28-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 29-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 30-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 31-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 32-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 33-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 34-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 35-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 2-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 3-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 4-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 1-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 5-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 6-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 7-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 8-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 9-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 10-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 11-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 12-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 13-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 14-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 15-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 16-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 17-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 18-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 19-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 20-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 21-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 22-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 23-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 24-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 25-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 26-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 27-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 28-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 29-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 30-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 31-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 32-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 33-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 34-35
+Fra:5 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 35-35
+Fra:5 Mem:144.45M (Peak 144.51M) | Time:00:00.68 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/5.exr
 Saved: 'output/exr/small_chair/5.png'
- Time: 00:01.12 (Saving: 00:00.59)
+ Time: 00:00.99 (Saving: 00:00.28)
 
 number:6
 output exr:output/exr/small_chair/#.exr
-Fra:6 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing Light
-Fra:6 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing Camera
-Fra:6 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing small_chair
-Fra:6 Mem:135.38M (Peak 137.28M) | Time:00:00.01 | Rendering 1 / 64 samples
-Fra:6 Mem:101.01M (Peak 137.28M) | Time:00:00.22 | Rendering 26 / 64 samples
-Fra:6 Mem:101.01M (Peak 137.28M) | Time:00:00.40 | Rendering 51 / 64 samples
-Fra:6 Mem:101.01M (Peak 137.28M) | Time:00:00.50 | Rendering 64 / 64 samples
-Fra:6 Mem:100.22M (Peak 137.63M) | Time:00:00.51 | Compositing
-Fra:6 Mem:100.22M (Peak 137.63M) | Time:00:00.51 | Compositing | Determining resolution
-Fra:6 Mem:100.22M (Peak 137.63M) | Time:00:00.51 | Compositing | Initializing execution
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 1-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 4-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 2-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 6-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 7-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 5-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 3-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 8-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 9-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 10-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 11-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 12-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 13-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 14-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 15-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 16-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 17-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 18-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 19-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 20-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 21-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 22-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 23-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 24-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 25-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 26-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 27-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 28-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 29-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 30-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 31-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 32-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 33-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 34-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 35-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 1-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 2-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 3-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 4-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 5-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 6-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 7-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 8-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 9-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 10-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 11-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 12-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 13-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 14-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 15-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 16-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 17-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 18-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 19-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 20-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 21-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 23-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 22-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 24-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 25-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 26-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 27-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 28-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 29-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 30-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 31-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 32-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 33-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 34-35
-Fra:6 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 35-35
-Fra:6 Mem:144.17M (Peak 144.24M) | Time:00:00.53 | Compositing | De-initializing execution
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Camera
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_0
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_1
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_2
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_3
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_4
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_5
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_6
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_7
+Fra:6 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing small_chair
+Fra:6 Mem:135.59M (Peak 137.50M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:6 Mem:101.28M (Peak 137.50M) | Time:00:00.28 | Rendering 26 / 64 samples
+Fra:6 Mem:101.28M (Peak 137.50M) | Time:00:00.52 | Rendering 51 / 64 samples
+Fra:6 Mem:101.28M (Peak 137.50M) | Time:00:00.65 | Rendering 64 / 64 samples
+Fra:6 Mem:100.49M (Peak 137.91M) | Time:00:00.66 | Compositing
+Fra:6 Mem:100.49M (Peak 137.91M) | Time:00:00.66 | Compositing | Determining resolution
+Fra:6 Mem:100.49M (Peak 137.91M) | Time:00:00.66 | Compositing | Initializing execution
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 1-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 3-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 3-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 5-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 7-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 8-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 6-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 9-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 10-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 12-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 13-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 14-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 11-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 15-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 16-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 17-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 18-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 19-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 20-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 21-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 22-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 23-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 24-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 25-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 26-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 27-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 28-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 29-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 30-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 31-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 32-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 33-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 34-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 35-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 5-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 3-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 7-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 6-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 2-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 4-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 8-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 9-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 10-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 11-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 12-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 13-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 14-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 15-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 16-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 17-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.67 | Compositing | Tile 18-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 19-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 20-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 21-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 22-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 23-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 24-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 25-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 26-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 27-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 28-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 29-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 30-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 31-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 32-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 33-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 34-35
+Fra:6 Mem:144.51M (Peak 144.51M) | Time:00:00.68 | Compositing | Tile 35-35
+Fra:6 Mem:144.45M (Peak 144.51M) | Time:00:00.68 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/6.exr
 Saved: 'output/exr/small_chair/6.png'
- Time: 00:01.17 (Saving: 00:00.61)
+ Time: 00:00.98 (Saving: 00:00.28)
 
 number:7
 output exr:output/exr/small_chair/#.exr
-Fra:7 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Light
-Fra:7 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Camera
-Fra:7 Mem:100.86M (Peak 100.86M) | Time:00:00.01 | Syncing small_chair
-Fra:7 Mem:135.32M (Peak 137.22M) | Time:00:00.01 | Rendering 1 / 64 samples
-Fra:7 Mem:101.01M (Peak 137.22M) | Time:00:00.22 | Rendering 26 / 64 samples
-Fra:7 Mem:101.01M (Peak 137.22M) | Time:00:00.39 | Rendering 51 / 64 samples
-Fra:7 Mem:101.01M (Peak 137.22M) | Time:00:00.48 | Rendering 64 / 64 samples
-Fra:7 Mem:100.22M (Peak 137.63M) | Time:00:00.50 | Compositing
-Fra:7 Mem:100.22M (Peak 137.63M) | Time:00:00.50 | Compositing | Determining resolution
-Fra:7 Mem:100.22M (Peak 137.63M) | Time:00:00.50 | Compositing | Initializing execution
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 1-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 2-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 3-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 5-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 6-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 4-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 7-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 8-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 9-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 10-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 11-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 12-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 13-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 14-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 15-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 16-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 17-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 18-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 19-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 20-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 21-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 22-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 23-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 24-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 25-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 26-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 27-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 28-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 29-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 30-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 31-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 32-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 33-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 34-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 35-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 1-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 2-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 5-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 4-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 6-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 7-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.51 | Compositing | Tile 3-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 9-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 8-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 10-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 11-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 12-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 13-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 14-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 15-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 16-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 17-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 18-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 19-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 20-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 21-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 22-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 23-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 24-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 25-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 26-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 27-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 28-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 29-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 30-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 31-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 32-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 33-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 34-35
-Fra:7 Mem:144.24M (Peak 144.24M) | Time:00:00.52 | Compositing | Tile 35-35
-Fra:7 Mem:144.17M (Peak 144.24M) | Time:00:00.52 | Compositing | De-initializing execution
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Camera
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_0
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_1
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_2
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_3
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_4
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_5
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_6
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_7
+Fra:7 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing small_chair
+Fra:7 Mem:135.59M (Peak 137.50M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:7 Mem:101.28M (Peak 137.50M) | Time:00:00.29 | Rendering 26 / 64 samples
+Fra:7 Mem:101.28M (Peak 137.50M) | Time:00:00.54 | Rendering 51 / 64 samples
+Fra:7 Mem:101.28M (Peak 137.50M) | Time:00:00.67 | Rendering 64 / 64 samples
+Fra:7 Mem:100.49M (Peak 137.91M) | Time:00:00.69 | Compositing
+Fra:7 Mem:100.49M (Peak 137.91M) | Time:00:00.69 | Compositing | Determining resolution
+Fra:7 Mem:100.49M (Peak 137.91M) | Time:00:00.69 | Compositing | Initializing execution
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 4-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 3-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 2-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 1-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 5-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 6-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 7-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 8-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 9-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 10-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 11-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 12-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 13-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 14-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 15-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 16-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 17-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 18-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 19-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 20-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 21-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 22-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 23-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 24-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 25-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 26-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 27-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 28-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 29-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 30-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 31-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 32-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 33-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 34-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.69 | Compositing | Tile 35-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 3-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 4-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 2-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 1-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 5-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 6-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 7-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 8-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 9-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 10-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 11-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 12-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 13-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 14-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 15-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 16-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 17-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 18-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 19-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 20-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 21-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 22-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 23-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 24-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 25-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 26-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 27-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 28-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 29-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 30-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 31-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 32-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 33-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 34-35
+Fra:7 Mem:144.51M (Peak 144.51M) | Time:00:00.70 | Compositing | Tile 35-35
+Fra:7 Mem:144.45M (Peak 144.51M) | Time:00:00.70 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/7.exr
 Saved: 'output/exr/small_chair/7.png'
- Time: 00:01.16 (Saving: 00:00.60)
+ Time: 00:01.01 (Saving: 00:00.28)
 
 number:8
 output exr:output/exr/small_chair/#.exr
-Fra:8 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Light
-Fra:8 Mem:100.85M (Peak 100.85M) | Time:00:00.01 | Syncing Camera
-Fra:8 Mem:100.86M (Peak 100.86M) | Time:00:00.01 | Syncing small_chair
-Fra:8 Mem:135.32M (Peak 137.22M) | Time:00:00.02 | Rendering 1 / 64 samples
-Fra:8 Mem:101.01M (Peak 137.22M) | Time:00:00.21 | Rendering 26 / 64 samples
-Fra:8 Mem:101.07M (Peak 137.22M) | Time:00:00.38 | Rendering 51 / 64 samples
-Fra:8 Mem:101.01M (Peak 137.22M) | Time:00:00.47 | Rendering 64 / 64 samples
-Fra:8 Mem:100.28M (Peak 137.69M) | Time:00:00.49 | Compositing
-Fra:8 Mem:100.28M (Peak 137.69M) | Time:00:00.49 | Compositing | Determining resolution
-Fra:8 Mem:100.28M (Peak 137.69M) | Time:00:00.49 | Compositing | Initializing execution
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 2-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 2-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 4-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 4-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 5-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 6-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 7-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.49 | Compositing | Tile 8-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 9-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 10-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 11-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 12-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 13-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 14-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 15-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 16-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 17-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 18-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 19-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 20-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 21-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 22-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 23-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 24-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 25-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 26-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 27-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 28-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 29-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 30-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 31-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 32-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 33-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 34-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 35-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 1-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 2-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 3-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 5-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 6-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 7-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 8-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 9-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 10-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 11-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 12-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 4-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 13-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 14-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 15-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 16-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 17-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 18-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 19-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 20-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 21-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 22-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.50 | Compositing | Tile 23-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 24-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 25-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 26-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 27-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 28-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 29-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 30-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 31-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 32-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 33-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 34-35
-Fra:8 Mem:144.30M (Peak 144.30M) | Time:00:00.51 | Compositing | Tile 35-35
-Fra:8 Mem:144.24M (Peak 144.30M) | Time:00:00.51 | Compositing | De-initializing execution
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Camera
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_0
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_1
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_2
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_3
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_4
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_5
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_6
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing Light_7
+Fra:8 Mem:101.13M (Peak 101.13M) | Time:00:00.01 | Syncing small_chair
+Fra:8 Mem:135.59M (Peak 137.50M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:8 Mem:101.28M (Peak 137.50M) | Time:00:00.26 | Rendering 26 / 64 samples
+Fra:8 Mem:101.28M (Peak 137.50M) | Time:00:00.48 | Rendering 51 / 64 samples
+Fra:8 Mem:101.35M (Peak 137.50M) | Time:00:00.59 | Rendering 64 / 64 samples
+Fra:8 Mem:100.49M (Peak 137.91M) | Time:00:00.60 | Compositing
+Fra:8 Mem:100.49M (Peak 137.91M) | Time:00:00.60 | Compositing | Determining resolution
+Fra:8 Mem:100.49M (Peak 137.91M) | Time:00:00.60 | Compositing | Initializing execution
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 1-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 3-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 2-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 4-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 5-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 6-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 7-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 8-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.60 | Compositing | Tile 9-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 10-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 11-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 12-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 13-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 14-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 15-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 16-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 17-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 18-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 19-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 20-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 21-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 22-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 23-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 24-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 25-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 26-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 27-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 28-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 29-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 30-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 31-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 32-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 33-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 34-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 35-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 2-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 2-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 4-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 3-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 5-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 6-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 7-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 8-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 9-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 10-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 11-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 12-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 13-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 14-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 15-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 16-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 17-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 18-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 19-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 20-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 21-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 22-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 23-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 24-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 25-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 26-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 27-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 28-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 29-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 30-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 31-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 32-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 33-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 34-35
+Fra:8 Mem:144.51M (Peak 144.51M) | Time:00:00.61 | Compositing | Tile 35-35
+Fra:8 Mem:144.45M (Peak 144.51M) | Time:00:00.61 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/8.exr
 Saved: 'output/exr/small_chair/8.png'
- Time: 00:01.04 (Saving: 00:00.50)
+ Time: 00:00.92 (Saving: 00:00.29)
 
 number:9
 output exr:output/exr/small_chair/#.exr
-Fra:9 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing Light
-Fra:9 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing Camera
-Fra:9 Mem:100.92M (Peak 100.92M) | Time:00:00.01 | Syncing small_chair
-Fra:9 Mem:135.38M (Peak 137.28M) | Time:00:00.02 | Rendering 1 / 64 samples
-Fra:9 Mem:101.01M (Peak 137.28M) | Time:00:00.22 | Rendering 26 / 64 samples
-Fra:9 Mem:101.01M (Peak 137.28M) | Time:00:00.40 | Rendering 51 / 64 samples
-Fra:9 Mem:101.01M (Peak 137.28M) | Time:00:00.50 | Rendering 64 / 64 samples
-Fra:9 Mem:100.22M (Peak 137.63M) | Time:00:00.52 | Compositing
-Fra:9 Mem:100.22M (Peak 137.63M) | Time:00:00.52 | Compositing | Determining resolution
-Fra:9 Mem:100.22M (Peak 137.63M) | Time:00:00.52 | Compositing | Initializing execution
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 2-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 4-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 1-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 3-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 5-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 6-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 7-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 8-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 9-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 10-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 11-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 12-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 13-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 14-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 15-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 16-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 17-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 18-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 19-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 20-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 21-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 22-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 23-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 24-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 25-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 26-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 27-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 28-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 29-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 30-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 31-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 32-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 33-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 34-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 35-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 1-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 5-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 3-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 7-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 2-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 4-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 6-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 8-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 9-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 10-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 11-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 12-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 13-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 14-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 15-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 16-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 17-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.53 | Compositing | Tile 18-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 19-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 20-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 21-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 22-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 23-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 24-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 25-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 26-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 27-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 28-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 29-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 30-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 31-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 32-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 33-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 34-35
-Fra:9 Mem:144.24M (Peak 144.24M) | Time:00:00.54 | Compositing | Tile 35-35
-Fra:9 Mem:144.17M (Peak 144.24M) | Time:00:00.54 | Compositing | De-initializing execution
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Camera
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_0
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_1
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_2
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_3
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_4
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_5
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_6
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing Light_7
+Fra:9 Mem:101.13M (Peak 101.13M) | Time:00:00.00 | Syncing small_chair
+Fra:9 Mem:135.59M (Peak 137.50M) | Time:00:00.01 | Rendering 1 / 64 samples
+Fra:9 Mem:101.28M (Peak 137.50M) | Time:00:00.27 | Rendering 26 / 64 samples
+Fra:9 Mem:101.28M (Peak 137.50M) | Time:00:00.50 | Rendering 51 / 64 samples
+Fra:9 Mem:101.28M (Peak 137.50M) | Time:00:00.61 | Rendering 64 / 64 samples
+Fra:9 Mem:100.49M (Peak 137.91M) | Time:00:00.63 | Compositing
+Fra:9 Mem:100.49M (Peak 137.91M) | Time:00:00.63 | Compositing | Determining resolution
+Fra:9 Mem:100.49M (Peak 137.91M) | Time:00:00.63 | Compositing | Initializing execution
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 1-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 3-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 4-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 2-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 5-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 6-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 7-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 8-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 9-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 10-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 11-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 12-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 13-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 14-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 15-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 16-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 17-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 18-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 19-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 20-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 21-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 22-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 23-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 24-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 25-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 26-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 27-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 28-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 29-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 30-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 31-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 32-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 33-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 34-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 35-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 3-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 4-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 2-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.63 | Compositing | Tile 1-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 5-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 6-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 7-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 8-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 9-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 10-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 11-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 12-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 13-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 14-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 15-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 16-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 17-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 18-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 19-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 20-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 21-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 22-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 23-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 24-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 25-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 26-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 27-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 28-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 29-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 30-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 31-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 32-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 33-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 34-35
+Fra:9 Mem:144.51M (Peak 144.51M) | Time:00:00.64 | Compositing | Tile 35-35
+Fra:9 Mem:144.45M (Peak 144.51M) | Time:00:00.64 | Compositing | De-initializing execution
 Saved: output/exr/small_chair/9.exr
 Saved: 'output/exr/small_chair/9.png'
- Time: 00:01.14 (Saving: 00:00.56)
+ Time: 00:00.95 (Saving: 00:00.29)
 
 [1;31mERROR[0m (bke.lib_id): source/blender/blenkernel/intern/lib_id.c:334 id_us_min: ID user decrement error: MADots Stroke (from '[Main]'): 0 <= 0
 [1;31mERROR[0m (bke.lib_id): source/blender/blenkernel/intern/lib_id.c:334 id_us_min: ID user decrement error: MADots Stroke (from '[Main]'): 0 <= 0

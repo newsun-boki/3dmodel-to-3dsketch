@@ -32,6 +32,34 @@ def random_pose():
 
 
 def setup_blender(width, height, focal_length):
+
+    bpy.ops.object.select_all(action='DESELECT')
+    bpy.ops.object.select_by_type(type='LIGHT')
+    bpy.ops.object.delete()
+
+    # 光源位置的列表，每个元素代表一个象限的位置
+    light_positions = [
+        (5, 5, 5),
+        (5, 5, -5),
+        (5, -5, 5),
+        (5, -5, -5),
+        (-5, 5, 5),
+        (-5, 5, -5),
+        (-5, -5, 5),
+        (-5, -5, -5)
+    ]
+
+    # 循环添加光源
+    for i, position in enumerate(light_positions):
+        light = bpy.data.lights.new(name=f'Light_{i}', type='POINT')
+        light.energy = 300.0  # 光源强度，根据需要进行调整
+        light_obj = bpy.data.objects.new(f'Light_{i}', object_data=light)
+        light_obj.location = position
+        bpy.context.collection.objects.link(light_obj)
+        light.use_shadow = False  # 禁用光源的阴影
+
+    # 设置默认渲染光源为新添加的光源
+    # bpy.context.scene.collection.objects.unlink(bpy.context.scene.collection.objects[0])
     # camera
     camera = bpy.data.objects['Camera']
     camera.data.angle = np.arctan(width / 2 / focal_length) * 2
@@ -43,7 +71,7 @@ def setup_blender(width, height, focal_length):
     scene.render.resolution_percentage = 100
     scene.render.resolution_x = width
     scene.render.resolution_y = height
-    scene.view_layers['ViewLayer'].use_pass_z = True
+    scene.view_layers['ViewLayer'].use_pass_z = True#这里需要添加一下这个
     # compositor nodes 合成器节点
     scene.use_nodes = True
     tree = scene.node_tree
