@@ -32,7 +32,8 @@ def random_pose():
 
 
 def setup_blender(width, height, focal_length):
-
+    ##这里切换为正交视角，因为wonder3d输出模型为正交视角的
+    # bpy.ops.view3d.view_persportho()
     bpy.ops.object.select_all(action='DESELECT')
     bpy.ops.object.select_by_type(type='LIGHT')
     bpy.ops.object.delete()
@@ -52,7 +53,7 @@ def setup_blender(width, height, focal_length):
     # 循环添加光源
     for i, position in enumerate(light_positions):
         light = bpy.data.lights.new(name=f'Light_{i}', type='POINT')
-        light.energy = 300.0  # 光源强度，根据需要进行调整
+        light.energy = 150.0  # 光源强度，根据需要进行调整
         light_obj = bpy.data.objects.new(f'Light_{i}', object_data=light)
         light_obj.location = position
         bpy.context.collection.objects.link(light_obj)
@@ -90,9 +91,9 @@ def setup_blender(width, height, focal_length):
 
 if __name__ == '__main__':
 
-    model_dir = './'
-    output_dir = "output"
-    num_scans = 10 #扫描次数，自定义即可
+    model_dir = 'plys'
+    output_dir = "output1"
+    num_scans = 20 #扫描次数，自定义即可
 
     # 设置深度图的宽高和相机焦点，可以修改深度图和点云的分辨率
     nn = 10
@@ -102,10 +103,11 @@ if __name__ == '__main__':
     scene, camera, output = setup_blender(width, height, focal)
     intrinsics = np.array([[focal, 0, width / 2], [0, focal, height / 2], [0, 0, 1]])
 
-    model_list = ['small_chair'] # 不包含后缀名
+    model_list = ['building_big'] # 不包含后缀名
     open('blender.log', 'w+').close()
     os.system('rm -rf %s' % output_dir)
-    os.makedirs(output_dir)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     np.savetxt(os.path.join(output_dir, 'intrinsics.txt'), intrinsics, '%f')
     for model_id in model_list:
         start = time.time()

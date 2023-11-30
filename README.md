@@ -23,14 +23,30 @@ pip install openexr
 
 1. Genrate Multi-view Depth Image from Model.
 ```bash
+#source ~/.bash_profile
 blender -b -P render_depth.py
 ```
 The results are stored in `./output`
-2. Visualize the EXR results
+2. Visualize the EXR results to get the depth image
 ```bash
 python plot_exr.py
 ```
+3. Apply edge detection and get depth image and final point cloud
 
+```bash
+python precess_exr.py
+```
+4. combine all point cloud, downsampling,remove noise
+
+```bash
+python combine_points.py
+```
+
+5. generate 3d curve from ply
+
+```bash
+python ply2curve.py
+```
 
 ## Reference
 

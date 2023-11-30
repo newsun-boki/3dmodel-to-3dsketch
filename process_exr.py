@@ -18,26 +18,27 @@ def edge_detection(image_path):
     # 进行高斯模糊，消除噪声
     blurred = cv2.GaussianBlur(gray, (5, 5), 0)
     # 使用Canny方法进行边缘检测
-    edges = cv2.Canny(blurred, 6, 50)
-    # img = gray
-    # canny = cv2.Canny(img, 85, 255) 
+    edges = cv2.Canny(blurred, 6, 40)
+    if False:
+        img = gray
+        canny = cv2.Canny(img, 85, 255) 
 
-    # cv2.namedWindow('image') # make a window with name 'image'
-    # cv2.createTrackbar('L', 'image', 0, 255, callback) #lower threshold trackbar for window 'image
-    # cv2.createTrackbar('U', 'image', 0, 255, callback) #upper threshold trackbar for window 'image
+        cv2.namedWindow('image') # make a window with name 'image'
+        cv2.createTrackbar('L', 'image', 0, 255, callback) #lower threshold trackbar for window 'image
+        cv2.createTrackbar('U', 'image', 0, 255, callback) #upper threshold trackbar for window 'image
 
-    # while(1):
-    #     numpy_horizontal_concat = np.concatenate((img, canny), axis=1) # to display image side by side
-    #     cv2.imshow('image', numpy_horizontal_concat)
-    #     k = cv2.waitKey(1) & 0xFF
-    #     if k == 27: #escape key
-    #         break
-    #     l = cv2.getTrackbarPos('L', 'image')
-    #     u = cv2.getTrackbarPos('U', 'image')
+        while(1):
+            numpy_horizontal_concat = np.concatenate((img, canny), axis=1) # to display image side by side
+            cv2.imshow('image', numpy_horizontal_concat)
+            k = cv2.waitKey(1) & 0xFF
+            if k == 27: #escape key
+                break
+            l = cv2.getTrackbarPos('L', 'image')
+            u = cv2.getTrackbarPos('U', 'image')
 
-    #     canny = cv2.Canny(img, l, u)
+            canny = cv2.Canny(img, l, u)
 
-    # cv2.destroyAllWindows()
+        cv2.destroyAllWindows()
     return edges
 
 def read_exr(exr_path, height, width):
@@ -66,10 +67,10 @@ if __name__ == '__main__':
     # parser.add_argument('list_file')
     parser.add_argument('--intrinsics_file',default="output/intrinsics.txt")
     parser.add_argument('--output_dir',default="output")
-    parser.add_argument('--num_scans', type=int, default=10)
+    parser.add_argument('--num_scans', type=int, default=20)
     args = parser.parse_args()
 
-    model_list = ['small_chair'] # 不包含后缀名
+    model_list = ['building_big'] # 不包含后缀名
     intrinsics = np.loadtxt(args.intrinsics_file)
     width = int(intrinsics[0, 2] * 2)
     height = int(intrinsics[1, 2] * 2)
@@ -77,6 +78,10 @@ if __name__ == '__main__':
     for model_id in model_list:
         depth_dir = os.path.join(args.output_dir, 'depth', model_id)
         pcd_dir = os.path.join(args.output_dir, 'pcd', model_id)
+        if os.path.exists(depth_dir):
+            os.system('rm -rf %s' % depth_dir)
+        if os.path.exists(pcd_dir):
+            os.system('rm -rf %s' % pcd_dir)
         os.makedirs(depth_dir, exist_ok=True)
         os.makedirs(pcd_dir, exist_ok=True)
         for i in range(args.num_scans):

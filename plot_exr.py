@@ -1,7 +1,7 @@
 import OpenEXR, Imath, numpy
 import matplotlib.pyplot as plt
 
-def main(file_name):
+def main(file_name,i):
     # 打开EXR文件
     pt = Imath.PixelType(Imath.PixelType.FLOAT)
     golden = OpenEXR.InputFile(file_name)
@@ -33,9 +33,12 @@ def main(file_name):
     plt.matshow(red_normalized, cmap='gray')  # 使用 ‘plasma’'viridis' 色图进行显示，也可以使用其他色图
     plt.colorbar()  # 添加颜色条以显示值与颜色的对应关系
     plt.title("Normalized R Channel")  # 设置图像标题
-    plt.show()  # 显示图像
+    # 增大分辨率并保存图像
+    plt.gcf().set_dpi(300)  # 设置分辨率为300 DPI
+    plt.savefig(f"{i}.png", dpi=600)
+    # plt.show()  # 显示图像
 
 if __name__ == "__main__":
     for i in range(5):
         file_name = f"/Users/wuzhu/Downloads/wooden-chair-ply/output/exr/small_chair/{i}.exr"
-        main(file_name)
+        main(file_name,i)
