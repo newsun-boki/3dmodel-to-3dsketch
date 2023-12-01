@@ -10,21 +10,23 @@ for i in range(20):  # 从0.ply到20.ply
 
 # 读取PLY文件
 # 可视化原始点云
-o3d.io.write_point_cloud("combined0.ply", combined_pcd)
-o3d.visualization.draw_geometries([combined_pcd], window_name="Original Point Cloud")
+# o3d.io.write_point_cloud("combined0.ply", combined_pcd)
+# o3d.visualization.draw_geometries([combined_pcd], window_name="Original Point Cloud")
 pcd_points = combined_pcd.voxel_down_sample(voxel_size=0.01)
-o3d.visualization.draw_geometries([pcd_points], window_name="Original Point Cloud")
-o3d.io.write_point_cloud("combined1.ply", pcd_points)
+# o3d.visualization.draw_geometries([pcd_points], window_name="Original Point Cloud")
+# o3d.io.write_point_cloud("combined1.ply", pcd_points)
 # 应用统计滤波器去除噪点
 cl, ind = pcd_points.remove_statistical_outlier(nb_neighbors=20, std_ratio=0.005)
 pcd_points = pcd_points.select_by_index(ind)
-o3d.visualization.draw_geometries([pcd_points], window_name="Processed Point Cloud")
-o3d.io.write_point_cloud("combined2.ply", pcd_points)
+# o3d.visualization.draw_geometries([pcd_points], window_name="Processed Point Cloud")
+# o3d.io.write_point_cloud("combined2.ply", pcd_points)
 
-pcd_points = pcd_points.voxel_down_sample(voxel_size=0.3)
+pcd_points = pcd_points.voxel_down_sample(voxel_size=0.05)
 o3d.visualization.draw_geometries([pcd_points], window_name="Original Point Cloud")
-o3d.io.write_point_cloud("combined3.ply", pcd_points)
-
+# o3d.io.write_point_cloud("combined3.ply", pcd_points)
+cl, ind = pcd_points.remove_statistical_outlier(nb_neighbors=20, std_ratio=2)
+pcd_points = pcd_points.select_by_index(ind)
+o3d.visualization.draw_geometries([pcd_points], window_name="Original Point Cloud")
 pcd_tree = o3d.geometry.KDTreeFlann(pcd_points)
 
 # 定义连接点的距离阈值
@@ -48,5 +50,6 @@ line_set = o3d.geometry.LineSet(
 )
 
 # 可视化曲线网络
-o3d.visualization.draw_geometries([line_set], window_name="3D Curve Network")
+# o3d.visualization.draw_geometries([line_set], window_name="3D Curve Network")
+# o3d.io.write_line_set("line_set.ply", line_set)
 print("done")

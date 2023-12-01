@@ -1,5 +1,7 @@
 output/
 output1/
+results/
 *.png
 *.exr
 *.ply
+*.mp4

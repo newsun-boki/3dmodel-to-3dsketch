@@ -37,6 +37,9 @@ view_ctl.set_front([0, 0, -1])  # 设置视图的前方向
 view_ctl.set_lookat([0, 0, 0])  # 设置视图的焦点
 view_ctl.set_up([0, -1, 0])     # 设置视图的上方向
 view_ctl.set_zoom(0.8)          # 设置视图的缩放级别
+opt = vis.get_render_option()
+opt.point_size = 15  # 更改点的大小
+
 
 # 开始旋转动画
 for i in range(int(num_frames)):
@@ -52,7 +55,18 @@ for i in range(int(num_frames)):
     image = np.asarray(image)
     image = (image * 255).astype(np.uint8)  # 将图像从浮点数转换为8位整数格式
     frames.append(image)
-
+for i in range(int(num_frames)):
+    # 每次旋转一个小角度
+    view_ctl.rotate(0, rotation_speed)
+    vis.update_geometry(point_cloud)
+    vis.poll_events()
+    vis.update_renderer()
+    
+    # 捕获当前窗口作为图像
+    image = vis.capture_screen_float_buffer(False)
+    image = np.asarray(image)
+    image = (image * 255).astype(np.uint8)  # 将图像从浮点数转换为8位整数格式
+    frames.append(image)
 # 结束动画后关闭窗口
 vis.destroy_window()
 
