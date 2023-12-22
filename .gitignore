@@ -3,6 +3,7 @@ output1/
 output2/
 output*/
 results/
+plys/
 *.png
 *.exr
 *.ply
