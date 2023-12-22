@@ -40,13 +40,13 @@ def setup_blender(width, height, focal_length):
 
     # 光源位置的列表，每个元素代表一个象限的位置
     light_positions = [
-        (5, 5, 5),
+        # (5, 5, 5),
         (5, 5, -5),
         (5, -5, 5),
-        (5, -5, -5),
+        # (5, -5, -5),
         (-5, 5, 5),
         (-5, 5, -5),
-        (-5, -5, 5),
+        # (-5, -5, 5),
         (-5, -5, -5)
     ]
 
@@ -63,6 +63,7 @@ def setup_blender(width, height, focal_length):
     # bpy.context.scene.collection.objects.unlink(bpy.context.scene.collection.objects[0])
     # camera
     camera = bpy.data.objects['Camera']
+    # camera.data.type = 'ORTHO'
     camera.data.angle = np.arctan(width / 2 / focal_length) * 2
     bpy.data.scenes["Scene"].view_layers['ViewLayer'].use_pass_z
     # render layer
@@ -91,9 +92,9 @@ def setup_blender(width, height, focal_length):
 
 if __name__ == '__main__':
 
-    model_dir = 'plys'
-    output_dir = "output1"
-    num_scans = 20 #扫描次数，自定义即可
+    model_dir = 'plys/buildings'
+    output_dir = "output"
+    num_scans = 50 #扫描次数，自定义即可
 
     # 设置深度图的宽高和相机焦点，可以修改深度图和点云的分辨率
     nn = 10
@@ -102,8 +103,10 @@ if __name__ == '__main__':
     focal = 100 * nn
     scene, camera, output = setup_blender(width, height, focal)
     intrinsics = np.array([[focal, 0, width / 2], [0, focal, height / 2], [0, 0, 1]])
-
-    model_list = ['building_big'] # 不包含后缀名
+    # model_list = os.listdir(model_dir)
+    # 获取文件夹内所有文件名（不包含后缀）
+    model_list= [os.path.splitext(f)[0] for f in os.listdir(model_dir) if os.path.isfile(os.path.join(model_dir, f))]
+    # model_list = ['building_big'] # 不包含后缀名
     open('blender.log', 'w+').close()
     os.system('rm -rf %s' % output_dir)
     if not os.path.exists(output_dir):
@@ -122,9 +125,22 @@ if __name__ == '__main__':
         # Import mesh model
         model_path = os.path.join(model_dir, model_id + '.ply') # 我的3D模型后缀名是 ply
         bpy.ops.import_mesh.ply(filepath=model_path)
+        bpy.ops.transform.resize(value=(5.0, 5.0, 5.0))
         # Rotate model by 90 degrees around x-axis (z-up => y-up) to match ShapeNet's coordinates
         bpy.ops.transform.rotate(value=-np.pi / 2, orient_axis='X')
         # Render
+        # 创建一个简单的材质
+        mat = bpy.data.materials.new(name="SimpleMat")
+        mat.diffuse_color = (1.0, 1.0, 1.0, 1.0)  # 白色
+        mat.use_nodes = False  # 关闭节点以使用基础材质设置
+
+        # 应用材质到所有物体
+        for obj in bpy.data.objects:
+            if obj.type == 'MESH':
+                if len(obj.data.materials) == 0:
+                    obj.data.materials.append(mat)
+                else:
+                    obj.data.materials[0] = mat
         for i in range(num_scans):
             print(f"number:{i}")
             scene.frame_set(i)

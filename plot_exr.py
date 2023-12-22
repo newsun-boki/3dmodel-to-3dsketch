@@ -39,6 +39,7 @@ def main(file_name,i):
     # plt.show()  # 显示图像
 
 if __name__ == "__main__":
-    for i in range(5):
-        file_name = f"/Users/wuzhu/Downloads/wooden-chair-ply/output/exr/small_chair/{i}.exr"
+    for i in range(10):
+        i= 3
+        file_name = f"/Users/wuzhu/Projects/modelto3Dsketch/output1/exr/building_big/{i}.exr"
         main(file_name,i)

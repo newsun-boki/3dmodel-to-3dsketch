@@ -67,10 +67,11 @@ if __name__ == '__main__':
     # parser.add_argument('list_file')
     parser.add_argument('--intrinsics_file',default="output/intrinsics.txt")
     parser.add_argument('--output_dir',default="output")
-    parser.add_argument('--num_scans', type=int, default=20)
+    parser.add_argument('--num_scans', type=int, default=50)
     args = parser.parse_args()
-
-    model_list = ['building_big'] # 不包含后缀名
+    model_dir = 'plys/buildings'
+    # model_list = ['building_big'] # 不包含后缀名
+    model_list= [os.path.splitext(f)[0] for f in os.listdir(model_dir) if os.path.isfile(os.path.join(model_dir, f))]
     intrinsics = np.loadtxt(args.intrinsics_file)
     width = int(intrinsics[0, 2] * 2)
     height = int(intrinsics[1, 2] * 2)
@@ -103,4 +104,4 @@ if __name__ == '__main__':
             pcd = o3d.geometry.PointCloud()
             pcd.points = o3d.utility.Vector3dVector(points)
             o3d.io.write_point_cloud(os.path.join(pcd_dir, '%d.ply' % i), pcd)
-    print("done")
+        print(f"{model_id} done")

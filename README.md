@@ -34,7 +34,7 @@ python plot_exr.py
 3. Apply edge detection and get depth image and final point cloud
 
 ```bash
-python precess_exr.py
+python process_exr.py
 ```
 4. combine all point cloud, downsampling,remove noise
 
@@ -45,7 +45,7 @@ python combine_points.py
 5. generate 3d curve from ply
 
 ```bash
-python ply2curve.py
+python all_direction_show_model.py
 ```
 
 ## Reference

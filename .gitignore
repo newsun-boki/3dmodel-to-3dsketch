@@ -1,5 +1,7 @@
 output/
 output1/
+output2/
+output*/
 results/
 *.png
 *.exr
